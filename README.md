@@ -65,6 +65,7 @@ I'm a Mobile App Developer & UI-UX Designer proficient in Flutter , Dart and Fig
 - **To-Do App:** Task Management Application
   - Developed a user-friendly to-do list app with features for task management, notifications, and prioritization.
 
+
 - **Alarm App:** Reminder and Alarm Application
   - Created an intuitive alarm app with customizable alerts, snooze options, and multiple alarm settings.
 
@@ -73,3 +74,11 @@ I'm a Mobile App Developer & UI-UX Designer proficient in Flutter , Dart and Fig
 ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
 ![Spanish](https://img.shields.io/badge/Spanish-Currently_Learning-yellow?style=for-the-badge)
 ![Turkish](https://img.shields.io/badge/Turkish-Proficient-red?style=for-the-badge)
+
+[Programming with JavaScript.pdf](https://github.com/user-attachments/files/16415510/Programming.with.JavaScript.pdf)
+[Introduction to Front- End Development.pdf](https://github.com/user-attachments/files/16415521/Introduction.to.Front-.End.Development.pdf)
+[Edrak.pdf](https://github.com/user-attachments/files/16415530/Edrak.pdf)
+[Foundations of User Experience (UX) Design.pdf](https://github.com/user-attachments/files/16415525/Foundations.of.User.Experience.UX.Design.pdf)
+[Start the U X Design Process Empathize, Define.pdf](https://github.com/user-attachments/files/16415536/Start.the.U.X.Design.Process.Empathize.Define.pdf)
+[get Started with Figma.pdf](https://github.com/user-attachments/files/16415547/get.Started.with.Figma.pdf)
+[Canva Certification.pdf](https://github.com/user-attachments/files/16415526/Canva.Certification.pdf)
