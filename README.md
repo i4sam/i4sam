@@ -75,10 +75,29 @@ I'm a Mobile App Developer & UI-UX Designer proficient in Flutter , Dart and Fig
 ![Spanish](https://img.shields.io/badge/Spanish-Currently_Learning-yellow?style=for-the-badge)
 ![Turkish](https://img.shields.io/badge/Turkish-Proficient-red?style=for-the-badge)
 
+
+![Programming with JavaScript](https://github.com/user-attachments/assets/c8dc15e5-0344-49ce-9118-d73b28488516)
+
+![Introduction to Front- End Development](https://github.com/user-attachments/assets/2d008996-543d-4d36-89ef-b01f0482df12)
+
+![Foundations of User Experience (UX) Design](https://github.com/user-attachments/assets/99e87525-c1ba-4b2b-ac5f-8a010868a126)
+
+![Start the U X Design Process Empathize, Define](https://github.com/user-attachments/assets/44ebf415-00a4-40b7-a908-1f9b292a7765)
+
+![Android Application Programming - Edrak](https://github.com/user-attachments/assets/d65ee8d0-efd8-4adc-b65c-05e8d411137e)
+
+
+
 [Programming with JavaScript.pdf](https://github.com/user-attachments/files/16415510/Programming.with.JavaScript.pdf)
+
 [Introduction to Front- End Development.pdf](https://github.com/user-attachments/files/16415521/Introduction.to.Front-.End.Development.pdf)
+
 [Edrak.pdf](https://github.com/user-attachments/files/16415530/Edrak.pdf)
+
 [Foundations of User Experience (UX) Design.pdf](https://github.com/user-attachments/files/16415525/Foundations.of.User.Experience.UX.Design.pdf)
+
 [Start the U X Design Process Empathize, Define.pdf](https://github.com/user-attachments/files/16415536/Start.the.U.X.Design.Process.Empathize.Define.pdf)
+
 [get Started with Figma.pdf](https://github.com/user-attachments/files/16415547/get.Started.with.Figma.pdf)
+
 [Canva Certification.pdf](https://github.com/user-attachments/files/16415526/Canva.Certification.pdf)
