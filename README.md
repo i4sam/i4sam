@@ -49,9 +49,12 @@ I'm a Mobile App Developer & UI-UX Designer proficient in Flutter , Dart and Fig
 
 - **Shamify Store:** E-Commerce Platform
   - Designed and developed a feature-rich e-commerce application with a focus on user experience and seamless transactions.
+  - ![Shamify-Muckup](https://github.com/user-attachments/assets/72decad8-ec70-4358-8a64-62b08f3b62ef)
+
 
 - **Shopera Store:** E-Commerce Application
   - Implemented advanced search functionality and optimized product filtering for a smooth shopping experience.
+  - ![Shopera-Muckup](https://github.com/user-attachments/assets/dfe0aa84-08e2-4263-a882-cf0232721c33)
 
 - **Diamond Test:** Speed Test App
   - Created a modern design speed test application using Flutter and Dart.
